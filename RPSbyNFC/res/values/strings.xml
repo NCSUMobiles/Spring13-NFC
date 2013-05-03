@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RPSbyNFC</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_nfc">NFCActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_activity_high_scores">HighScoresActivity</string>
+    <string name="title_activity_view_stats">ViewStatsActivity</string>
+    <string name="title_activity_beam_weapon">BeamWeaponActivity</string>
+    <string name="ipaddress"> 152.14.234.161</string>
+    <string name="title_activity_result1">Result1</string>
+    <string name="title_activity_choose_avatar">ChooseAvatar</string>
+
+</resources>
